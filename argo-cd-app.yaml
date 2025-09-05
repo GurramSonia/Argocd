@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/<your-username>/<your-repo>'
+    repoURL: 'https://github.com/GurramSonia/Argocd.git'
     targetRevision: HEAD
     path: python-hello
     helm:
