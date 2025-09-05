@@ -121,3 +121,4 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+WELCOME_MSG: "Hello from ArgoCD!"
